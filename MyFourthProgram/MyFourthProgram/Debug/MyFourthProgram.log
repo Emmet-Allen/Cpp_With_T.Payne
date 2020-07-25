@@ -1,0 +1,3 @@
+﻿  Challenge3.cpp
+C:\Users\emmet\source\repos\MyFourthProgram\MyFourthProgram\Challenge3.cpp(2,13): warning C4326: return type of 'main' should be 'int' instead of 'char'
+  MyFourthProgram.vcxproj -> C:\Users\emmet\source\repos\MyFourthProgram\Debug\MyFourthProgram.exe

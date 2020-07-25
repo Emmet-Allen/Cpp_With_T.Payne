@@ -1,0 +1,7 @@
+﻿  Challenge4.cpp
+C:\Users\emmet\source\repos\02_MyFifthProgram\02_MyFifthProgram\Challenge4.cpp(25,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\emmet\source\repos\02_MyFifthProgram\02_MyFifthProgram\Challenge4.cpp(26,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\emmet\source\repos\02_MyFifthProgram\02_MyFifthProgram\Challenge4.cpp(27,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\emmet\source\repos\02_MyFifthProgram\02_MyFifthProgram\Challenge4.cpp(28,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\emmet\source\repos\02_MyFifthProgram\02_MyFifthProgram\Challenge4.cpp(29,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+  02_MyFifthProgram.vcxproj -> C:\Users\emmet\source\repos\02_MyFifthProgram\Debug\02_MyFifthProgram.exe
