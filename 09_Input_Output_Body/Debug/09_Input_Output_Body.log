@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\emmet\source\repos\09_Input_Output_Body\main.cpp(151): warning C4172: returning address of local variable or temporary: c
+C:\Users\emmet\source\repos\09_Input_Output_Body\main.cpp(140): warning C4172: returning address of local variable or temporary: a
+  09_Input_Output_Body.vcxproj -> C:\Users\emmet\source\repos\09_Input_Output_Body\Debug\09_Input_Output_Body.exe

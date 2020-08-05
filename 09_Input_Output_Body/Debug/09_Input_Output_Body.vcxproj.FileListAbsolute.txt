@@ -1,0 +1,2 @@
+C:\Users\emmet\source\repos\09_Input_Output_Body\Debug\09_Input_Output_Body.exe
+C:\Users\emmet\source\repos\09_Input_Output_Body\Debug\09_Input_Output_Body.pdb
