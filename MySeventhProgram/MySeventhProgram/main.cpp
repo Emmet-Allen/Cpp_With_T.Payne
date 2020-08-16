@@ -25,19 +25,35 @@ int main() {
 
 	cout << " " << endl; 
 
-	char array_2d[3][3];
-	array_2d[0][0] = 'a';
-	array_2d[0][1] = 'b';
-	array_2d[0][2] = 'c';
-	array_2d[0][3] = 'd';
-	array_2d[1][0] = 'e';
-	array_2d[1][1] = 'f';
-	array_2d[1][2] = 'g';
-	array_2d[1][3] = 'h';
-	array_2d[2][1] = 'i';
+	char array_2d[3][3]{ 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i' };
 
-	cout << array_2d[2][1] << endl;
-	cout << array_2d[0][3] << endl; 
+	cout << array_2d[1][0] << endl;
+	cout << array_2d[2][2] << endl; 
+
+	int array_3d[2][2][2]{ 1, 2, 3, 4, 5, 6, 7, 8 };
+
+	cout << array_3d[0][0][1] << endl;
+	cout << array_3d[1][1][1] << endl;
+
+	char e[] = "Emmet";
+
+	cout << e << endl;
+
+	char special[] = "\t\r\n\b\t\?\r\v";
+
+	cout << special << endl;
+
+	cout << "" << endl;
+
+	string food1 = "soup";
+	string food2 = "salad";
+
+	food1.swap(food2);
+
+	cout << food1 << endl;
+	cout << food2 << endl;
+
+		
 
 
 	string y; 

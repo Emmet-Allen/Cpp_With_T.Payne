@@ -1,6 +1,1 @@
-﻿  main.cpp
-C:\Users\emmet\source\repos\05_MyEighthProgram\05_MyEighthProgram\main.cpp(12,16): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\emmet\source\repos\05_MyEighthProgram\05_MyEighthProgram\main.cpp(24,17): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\emmet\source\repos\05_MyEighthProgram\05_MyEighthProgram\main.cpp(25,14): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\emmet\source\repos\05_MyEighthProgram\05_MyEighthProgram\main.cpp(26,14): warning C4305: 'initializing': truncation from 'double' to 'float'
-  05_MyEighthProgram.vcxproj -> C:\Users\emmet\source\repos\05_MyEighthProgram\Debug\05_MyEighthProgram.exe
+﻿  05_MyEighthProgram.vcxproj -> C:\Users\emmet\source\repos\05_MyEighthProgram\Debug\05_MyEighthProgram.exe

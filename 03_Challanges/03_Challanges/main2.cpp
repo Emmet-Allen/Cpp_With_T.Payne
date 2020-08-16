@@ -10,8 +10,23 @@ int main() {
 	cout << (5 == 5 < 3 > 2 <= 8 >= 12) << endl;
 	cout << (true && false || true) << endl;
 
-	string y;
-	getline(cin , y);
+	int x, y, z; 
+
+	cout << "enter 3 int inputs:" << endl;
+		cin >> x;
+		cin >> y;
+		cin >> z;
+
+	int a, b, c;
+
+	cout << "enter 1 more int input:" << endl;
+	
+	cin >> a;
+	cout << ++a << endl;
+	cout << --a << endl;
+
+	string vargl;
+	getline(cin, vargl);
 
 	return 0;
 }

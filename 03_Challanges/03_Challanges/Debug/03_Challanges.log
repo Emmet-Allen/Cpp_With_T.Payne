@@ -2,4 +2,6 @@
 C:\Users\emmet\source\repos\03_Challanges\03_Challanges\main2.cpp(10,26): warning C4804: '>': unsafe use of type 'bool' in operation
 C:\Users\emmet\source\repos\03_Challanges\03_Challanges\main2.cpp(10,31): warning C4804: '<=': unsafe use of type 'bool' in operation
 C:\Users\emmet\source\repos\03_Challanges\03_Challanges\main2.cpp(10,36): warning C4804: '>=': unsafe use of type 'bool' in operation
+C:\Users\emmet\source\repos\03_Challanges\03_Challanges\main2.cpp(20,9): warning C4101: 'b': unreferenced local variable
+C:\Users\emmet\source\repos\03_Challanges\03_Challanges\main2.cpp(20,12): warning C4101: 'c': unreferenced local variable
   03_Challanges.vcxproj -> C:\Users\emmet\source\repos\03_Challanges\Debug\03_Challanges.exe

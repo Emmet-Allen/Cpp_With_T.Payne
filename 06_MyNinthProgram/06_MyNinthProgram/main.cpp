@@ -47,6 +47,28 @@ int main() {
 		 cout << "Pay Day" << endl;
 	 }
 
+	 string j = 2 < 1 ? "yes" : "no";
+		 cout << j << endl;
+
+
+		 int i = 8;
+		 int k = 12;
+		 k > i ? cout << k << endl : cout << i << endl;
+
+		 switch ('a') {
+		 case 'a' != 'b':
+			 cout << "a is not b" << endl;
+			 break;
+		 case 'a' == 'b':
+			 cout << "a is b" << endl;
+			 break;
+		 case 'a':
+			 cout << "this is a" << endl;
+			 break;
+		 default:
+			 cout << "neither a or b" << endl;
+			 break;
+		 }	
 
 
 	string z;

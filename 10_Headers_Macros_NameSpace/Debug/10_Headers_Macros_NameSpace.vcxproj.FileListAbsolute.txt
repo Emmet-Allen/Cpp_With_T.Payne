@@ -1,0 +1,2 @@
+C:\Users\emmet\source\repos\10_Headers_Macros_NameSpace\Debug\10_Headers_Macros_NameSpace.exe
+C:\Users\emmet\source\repos\10_Headers_Macros_NameSpace\Debug\10_Headers_Macros_NameSpace.pdb
