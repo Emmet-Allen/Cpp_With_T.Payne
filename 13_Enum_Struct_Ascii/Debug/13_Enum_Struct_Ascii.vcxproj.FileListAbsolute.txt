@@ -1,0 +1,2 @@
+C:\Users\emmet\source\repos\13_Enum_Struct_Ascii\Debug\13_Enum_Struct_Ascii.exe
+C:\Users\emmet\source\repos\13_Enum_Struct_Ascii\Debug\13_Enum_Struct_Ascii.pdb

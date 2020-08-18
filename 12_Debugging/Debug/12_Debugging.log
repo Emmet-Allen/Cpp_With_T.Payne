@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\emmet\source\repos\12_Debugging\main.cpp(32,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  test.cpp
+  Generating Code...
+  12_Debugging.vcxproj -> C:\Users\emmet\source\repos\12_Debugging\Debug\12_Debugging.exe

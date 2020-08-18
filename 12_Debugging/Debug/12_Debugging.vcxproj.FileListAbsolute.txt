@@ -1,0 +1,2 @@
+C:\Users\emmet\source\repos\12_Debugging\Debug\12_Debugging.exe
+C:\Users\emmet\source\repos\12_Debugging\Debug\12_Debugging.pdb
