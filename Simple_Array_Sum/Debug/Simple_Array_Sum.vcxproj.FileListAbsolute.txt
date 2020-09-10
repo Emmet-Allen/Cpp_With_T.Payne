@@ -1,0 +1,2 @@
+C:\Users\emmet\Documents\GitHub\C---With-T.Payne\Simple_Array_Sum\Debug\Simple_Array_Sum.exe
+C:\Users\emmet\Documents\GitHub\C---With-T.Payne\Simple_Array_Sum\Debug\Simple_Array_Sum.pdb

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\emmet\Documents\GitHub\C---With-T.Payne\Simple_Array_Sum\main.cpp(10,15): warning C4552: '>': result of expression not used
+C:\Users\emmet\Documents\GitHub\C---With-T.Payne\Simple_Array_Sum\main.cpp(14,17): warning C4552: '>': result of expression not used
+C:\Users\emmet\Documents\GitHub\C---With-T.Payne\Simple_Array_Sum\main.cpp(18,17): warning C4552: '>': result of expression not used
+C:\Users\emmet\Documents\GitHub\C---With-T.Payne\Simple_Array_Sum\main.cpp(32,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
