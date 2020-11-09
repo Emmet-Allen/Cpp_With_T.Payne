@@ -1,0 +1,2 @@
+C:\Users\emmet\source\repos\Dynamic_Arrays_pt2\Debug\Dynamic_Arrays_pt2.exe
+C:\Users\emmet\source\repos\Dynamic_Arrays_pt2\Debug\Dynamic_Arrays_pt2.pdb

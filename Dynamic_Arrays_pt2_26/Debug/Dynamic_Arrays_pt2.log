@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\emmet\source\repos\Dynamic_Arrays_pt2\main.cpp(81,13): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\emmet\source\repos\Dynamic_Arrays_pt2\main.cpp(83,13): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Dynamic_Arrays_pt2.vcxproj -> C:\Users\emmet\source\repos\Dynamic_Arrays_pt2\Debug\Dynamic_Arrays_pt2.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CLI_CLR_MEMORY_MANAGMENT_27.vcxproj -> C:\Users\emmet\source\repos\CLI_CLR_MEMORY_MANAGMENT_27\Debug\CLI_CLR_MEMORY_MANAGMENT_27.exe

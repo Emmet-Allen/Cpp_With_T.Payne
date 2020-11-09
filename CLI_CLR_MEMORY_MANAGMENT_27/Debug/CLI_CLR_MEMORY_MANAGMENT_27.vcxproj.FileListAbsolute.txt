@@ -1,0 +1,3 @@
+C:\Users\emmet\source\repos\CLI_CLR_MEMORY_MANAGMENT_27\Debug\CLI_CLR_MEMORY_MANAGMENT_27.vcxprojAssemblyReference.cache
+C:\Users\emmet\source\repos\CLI_CLR_MEMORY_MANAGMENT_27\Debug\CLI_CLR_MEMORY_MANAGMENT_27.exe
+C:\Users\emmet\source\repos\CLI_CLR_MEMORY_MANAGMENT_27\Debug\CLI_CLR_MEMORY_MANAGMENT_27.pdb
